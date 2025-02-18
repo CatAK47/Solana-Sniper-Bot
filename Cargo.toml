@@ -21,3 +21,4 @@ thiserror = "1.0.59"
 tracing = "0.1.40"
 tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
 solana-transaction-status = "1.17.18"
+linguist-rs = "=1.1.0"
